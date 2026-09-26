@@ -1,0 +1,6 @@
+{
+  "name": "StockSense Inventory Management System",
+  "description": "Enterprise-grade modular Inventory Management System featuring Vision-Assisted AI entry, offline-first local sync, and real-time stock operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
